@@ -12,7 +12,7 @@
 
 ###
 
-<h1 align="center">hey there 👋 Soubhagya this side</h1>
+<h1 align="center">hey there 👋 myself Soubhagya</h1>
 
 ###
 
